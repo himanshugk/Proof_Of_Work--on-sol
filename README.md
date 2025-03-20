@@ -28,4 +28,9 @@ This Solidity contract implements a **Proof of Knowledge (PoK)** system using a 
 
 ### 3. Verify a Proof
 - Use `verifyProof(a, b, c)` with the generated values from `generateProof`.
-- This function will retu
+- This function will return
+
+- ##Contract Address
+- 0x76039F1878b028474EaC589EE382B56c00D8b998
+- 
+![Screenshot 2025-03-20 155136](https://github.com/user-attachments/assets/a35be103-7b6c-47b8-aaeb-117a7edbb4d2)
